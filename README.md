@@ -1,7 +1,5 @@
 # MERN E-commerce Website 🛒
 
-![MERN E-commerce](https://img.shields.io/badge/MERN%20E-commerce%20Website-Ready%20to%20Use-brightgreen)
-
 Welcome to the **MERN E-commerce Website** repository! This project serves as a comprehensive tutorial for building an e-commerce application using the MERN stack. It covers essential features such as product management, user authentication, and payment integration. 
 
 [Check out the releases here!](https://github.com/roniepascal/mern-ecommerce-website/releases)
@@ -140,8 +138,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [roniepascal](https://github.com/roniepascal)
+- **Email**: tombrain1011@gmail.com
+- **GitHub**: [tombrain1011](https://github.com/tombrain1011)
 
 Thank you for checking out the MERN E-commerce Website! 
 
